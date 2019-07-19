@@ -1,0 +1,41 @@
+19/07/2019 19:19:41 ctrip 获取config和OR文档,打开浏览器: chrome, 最大化窗口, 最长等待时间(秒):10
+19/07/2019 19:19:41 ctrip 进入FlightTicket测试
+19/07/2019 19:19:42 ctrip 点击页面元素:home_CSS
+19/07/2019 19:19:42 ctrip 点击页面元素:flightTicket_CSS
+19/07/2019 19:19:42 ctrip 点击页面元素:double_CSS
+19/07/2019 19:19:43 ctrip 清空页面元素:startCity_CSS
+19/07/2019 19:19:43 ctrip 发送信息:北京, 到页面元素:startCity_CSS
+19/07/2019 19:19:43 ctrip 清空页面元素:toCity_CSS
+19/07/2019 19:19:43 ctrip 发送信息:上海, 到页面元素:toCity_CSS
+19/07/2019 19:19:44 ctrip 清空页面元素:fromDate_CSS
+19/07/2019 19:19:44 ctrip 发送信息:2019-07-29, 到页面元素:fromDate_CSS
+19/07/2019 19:19:44 ctrip 清空页面元素:returnDate_CSS
+19/07/2019 19:19:45 ctrip 发送信息:2019-07-30, 到页面元素:returnDate_CSS
+19/07/2019 19:19:46 ctrip 点击页面元素:hasChild_CSS
+19/07/2019 19:19:46 ctrip 点击页面元素:hasBaby_CSS
+19/07/2019 19:19:46 ctrip 点击页面元素:search_CSS
+19/07/2019 19:19:48 ctrip 页面标题是否含有元素->北京到上海: true
+19/07/2019 19:19:48 ctrip FlightTicket内部测试完成。
+19/07/2019 19:19:49 ctrip 进入FlightTicket测试
+19/07/2019 19:19:49 ctrip 点击页面元素:home_CSS
+19/07/2019 19:19:49 ctrip 点击页面元素:flightTicket_CSS
+19/07/2019 19:19:49 ctrip 点击页面元素:double_CSS
+19/07/2019 19:19:50 ctrip 清空页面元素:startCity_CSS
+19/07/2019 19:19:50 ctrip 发送信息:成都, 到页面元素:startCity_CSS
+19/07/2019 19:19:50 ctrip 清空页面元素:toCity_CSS
+19/07/2019 19:19:50 ctrip 发送信息:广州, 到页面元素:toCity_CSS
+19/07/2019 19:19:51 ctrip 清空页面元素:fromDate_CSS
+19/07/2019 19:19:52 ctrip 发送信息:2019-07-29, 到页面元素:fromDate_CSS
+19/07/2019 19:19:52 ctrip 清空页面元素:returnDate_CSS
+19/07/2019 19:19:52 ctrip 发送信息:2019-07-30, 到页面元素:returnDate_CSS
+19/07/2019 19:19:53 ctrip 点击页面元素:hasChild_CSS
+19/07/2019 19:19:53 ctrip 点击页面元素:hasBaby_CSS
+19/07/2019 19:19:53 ctrip 点击页面元素:search_CSS
+19/07/2019 19:19:55 ctrip 页面标题是否含有元素->成都到广州: true
+19/07/2019 19:19:55 ctrip FlightTicket内部测试完成。
+19/07/2019 19:19:55 ctrip 进入TestTravel测试
+19/07/2019 19:19:56 ctrip 点击页面元素:home_CSS
+19/07/2019 19:19:57 ctrip 点击页面元素:travel_CSS
+19/07/2019 19:19:57 ctrip 点击页面元素:themeTravel_XPATH
+19/07/2019 19:20:00 ctrip 页面标题是否含有元素->主题旅游: true
+19/07/2019 19:20:00 ctrip TestTravel内部测试完成。
